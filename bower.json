@@ -1,0 +1,19 @@
+{
+  "name": "ivyBPMN1",
+  "version": "0.0.1",
+  "authors": [
+    "oustriem <marco.buri@gmail.com>"
+  ],
+  "description": "ivy BPMN viewer prototype 1",
+  "main": "src/Application.js",
+  "license": "MIT",
+  "dependencies": {
+    // front-end dependencies of bpmn-js consider that they must be linked in html manually!
+    "bpmn-js": "~0.9.2",
+    "jquery": "~2.1.4",
+    "jquery-mousewheel": "~3.1.12",
+    "lodash": "~3.8.0",
+    "sax-js": "https://github.com/isaacs/sax-js.git#~1.1.0",
+    "Snap.svg": "~0.4.1"
+  }
+}
