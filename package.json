@@ -1,5 +1,5 @@
 {
-  "name": "ivyBPMN1",
+  "name": "WebViewerSpike",
   "version": "0.0.1",
   "description": "ivy BPMN viewer prototype 1",
   "main": "index.js",
@@ -15,6 +15,8 @@
     "bower": "^1.4.1",
     "browserify": "^10.2.1",
     "grunt": "^0.4.5",
+    "grunt-browserify": "^3.8.0",
+    "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-copy": "^0.8.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-karma": "^0.10.1",
