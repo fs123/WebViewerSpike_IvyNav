@@ -2,6 +2,5 @@
 /.idea/
 /.project
 /output
-/demo/
-/demo
 /.tern-project
+/bower_components/
